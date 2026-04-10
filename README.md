@@ -1,2 +1,2 @@
 # Java-project
-This is practice project for java..
+This is practice project for java
